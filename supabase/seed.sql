@@ -1,0 +1,1 @@
+-- Demo seed data (TECH_SPEC §14). Added in later milestones.
